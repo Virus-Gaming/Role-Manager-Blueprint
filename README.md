@@ -7,7 +7,7 @@ This repository is dedicated to collecting your feedback, ideas, and bug reports
 
 ## 🎯 About Roles Manager
 
-Roles Manager is a powerful extension for [Blueprint](https://blueprint.sh/) that simplifies permission management in Pterodactyl panels. It allows you to create, edit, and assign custom roles with granular control, enhancing security and efficiency.
+Roles Manager is a powerful extension for [Blueprint](https://blueprint.zip/) that simplifies permission management in Pterodactyl panels. It allows you to create, edit, and assign custom roles with granular control, enhancing security and efficiency.
 
 ---
 
@@ -16,7 +16,7 @@ Roles Manager is a powerful extension for [Blueprint](https://blueprint.sh/) tha
 Since this repository is only for **issues and suggestions**, here's how you can help:
 
 1. **Report a Bug**  
-   Open an [issue](https://github.com/yourusername/roles-manager-blueprint/issues) describing the problem.  
+   Open an [issue](https://github.com/Virus-Gaming/Role-Manager-Blueprint/issues) describing the problem.  
    Include details such as:
    - Steps to reproduce the issue
    - Expected behavior
@@ -24,7 +24,7 @@ Since this repository is only for **issues and suggestions**, here's how you can
    - Screenshots/logs (if applicable)
 
 2. **Suggest a Feature**  
-   Open an [issue](https://github.com/yourusername/roles-manager-blueprint/issues) with the `enhancement` label and describe:
+   Open an [issue](https://github.com/yourusername/roles-manager-blueprint/issues) with the `suggestion` label and describe:
    - What the feature should do
    - Why it would be useful
    - Any additional context or examples
@@ -33,15 +33,15 @@ Since this repository is only for **issues and suggestions**, here's how you can
 
 ## 📖 Usage & Installation
 
-For installation and usage instructions, visit the main repository:  
-[Roles Manager for Blueprint](https://github.com/yourmainrepo-link-here).
+For installation and usage instructions, please visit the docs:  
+LINK COMING SOON!.
 
 ---
 
 ## 🛠️ Development Contributions
 
-If you'd like to contribute directly to the code, please check the main development repository:  
-[Roles Manager Codebase](https://github.com/yourmainrepo-link-here).
+If you'd like to contribute directly to the code, please email me with proof of purchase:  
+```vortexcloudsolutions@gmail.com```.
 
 ---
 
@@ -53,7 +53,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🌐 Connect
 
-Have questions? Open an [issue](https://github.com/yourusername/roles-manager-blueprint/issues).  
+Have questions? Open an [issue](https://github.com/Virus-Gaming/Role-Manager-Blueprint/issues).  
 We're excited to hear your feedback and suggestions! 🚀
 
 ---
