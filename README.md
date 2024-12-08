@@ -41,7 +41,7 @@ LINK COMING SOON!.
 ## 🛠️ Development Contributions
 
 If you'd like to contribute directly to the code, please email me with proof of purchase:  
-```vortexcloudsolutions@gmail.com```.
+```contribution@virusnetwork.tech```.
 
 ---
 
